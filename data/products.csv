@@ -1,2 +1,81 @@
-product_id,brand,model,price_cny,chipset,battery_mah,weight_g,camera_features,suitable_scenarios,source_url,updated_at
-P001,OPPO,Find X10 Pro Max 12GB+256GB,6799,天玑9600 Pro,8000,235,哈苏三颗2亿像素镜头,拍照;续航,https://www.oppo.com/cn/smartphones/series-find-x/find-x10-pro-max/specs/,2026-11-06
+product_id	brand	model	price_cny	chipset	battery_mah	weight_g	camera_features	suitable_scenarios	source_url	updated_at
+P001-01	OPPO	Find X10 Pro Max 12GB+256GB	6799	天玑9600 Pro	8000	235	三2亿：2亿主摄f/1.5+2亿超广角124°+2亿长焦70mm 3倍光变+丹霞镜头；前置5000万	拍照;续航;性能	https://www.oppo.com/cn/smartphones/series-find-x/find-x10-pro-max/specs/	2026-11-07
+P001-02	OPPO	Find X10 Pro Max 12GB+512GB	7499	天玑9600 Pro	8000	235	三2亿：2亿主摄f/1.5+2亿超广角124°+2亿长焦70mm 3倍光变+丹霞镜头；前置5000万	拍照;续航;性能	https://www.oppo.com/cn/smartphones/series-find-x/find-x10-pro-max/specs/	2026-11-07
+P001-03	OPPO	Find X10 Pro Max 16GB+512GB	7999	天玑9600 Pro	8000	235	三2亿：2亿主摄f/1.5+2亿超广角124°+2亿长焦70mm 3倍光变+丹霞镜头；前置5000万	拍照;续航;性能	https://www.oppo.com/cn/smartphones/series-find-x/find-x10-pro-max/specs/	2026-11-07
+P001-04	OPPO	Find X10 Pro Max 16GB+1TB	8999	天玑9600 Pro	8000	235	三2亿：2亿主摄f/1.5+2亿超广角124°+2亿长焦70mm 3倍光变+丹霞镜头；前置5000万	拍照;续航;性能	https://www.oppo.com/cn/smartphones/series-find-x/find-x10-pro-max/specs/	2026-11-07
+P002-01	OPPO	Find X10 12GB+256GB	5499	天玑9600M	8000	216	双2亿：2亿主摄23mm+2亿长焦65mm 2.8倍+5000万超广角120°；前置5000万	拍照;续航;性能	https://www.oppo.com/cn/smartphones/series-find-x/find-x10/specs/	2026-11-07
+P002-02	OPPO	Find X10 12GB+512GB	5999	天玑9600M	8000	216	双2亿：2亿主摄23mm+2亿长焦65mm 2.8倍+5000万超广角120°；前置5000万	拍照;续航;性能	https://www.oppo.com/cn/smartphones/series-find-x/find-x10/specs/	2026-11-07
+P002-03	OPPO	Find X10 16GB+512GB	6499	天玑9600M	8000	216	双2亿：2亿主摄23mm+2亿长焦65mm 2.8倍+5000万超广角120°；前置5000万	拍照;续航;性能	https://www.oppo.com/cn/smartphones/series-find-x/find-x10/specs/	2026-11-07
+P002-04	OPPO	Find X10 16GB+1TB	7499	天玑9600M	8000	216	双2亿：2亿主摄23mm+2亿长焦65mm 2.8倍+5000万超广角120°；前置5000万	拍照;续航;性能	https://www.oppo.com/cn/smartphones/series-find-x/find-x10/specs/	2026-11-07
+P003-01	OPPO	Reno16 Pro 12GB+256GB	4499	天玑9500s	7000	205	2亿主摄24mm云台OIS+5000万超广角116°+5000万长焦80mm 3.5倍	拍照;续航;性能	https://www.oppo.com/cn/smartphones/series-reno/reno16-pro/specs/	2026-11-07
+P003-02	OPPO	Reno16 Pro 12GB+512GB	4899	天玑9500s	7000	205	2亿主摄24mm云台OIS+5000万超广角116°+5000万长焦80mm 3.5倍	拍照;续航;性能	https://www.oppo.com/cn/smartphones/series-reno/reno16-pro/specs/	2026-11-07
+P003-03	OPPO	Reno16 Pro 16GB+512GB	5299	天玑9500s	7000	205	2亿主摄24mm云台OIS+5000万超广角116°+5000万长焦80mm 3.5倍	拍照;续航;性能	https://www.oppo.com/cn/smartphones/series-reno/reno16-pro/specs/	2026-11-07
+P004-01	OPPO	Reno16 12GB+256GB	3499	天玑8550 SUPER	6700	188	2亿主摄24mm OIS+5000万超广角116°+5000万长焦80mm 3.5倍	拍照	https://www.oppo.com/cn/smartphones/series-reno/reno16/specs/	2026-11-07
+P004-02	OPPO	Reno16 12GB+512GB	3999	天玑8550 SUPER	6700	188	2亿主摄24mm OIS+5000万超广角116°+5000万长焦80mm 3.5倍	拍照	https://www.oppo.com/cn/smartphones/series-reno/reno16/specs/	2026-11-07
+P004-03	OPPO	Reno16 16GB+256GB	3899	天玑8550 SUPER	6700	188	2亿主摄24mm OIS+5000万超广角116°+5000万长焦80mm 3.5倍	拍照	https://www.oppo.com/cn/smartphones/series-reno/reno16/specs/	2026-11-07
+P004-04	OPPO	Reno16 16GB+512GB	4299	天玑8550 SUPER	6700	188	2亿主摄24mm OIS+5000万超广角116°+5000万长焦80mm 3.5倍	拍照	https://www.oppo.com/cn/smartphones/series-reno/reno16/specs/	2026-11-07
+P004-05	OPPO	Reno16 16GB+1TB	4899	天玑8550 SUPER	6700	188	2亿主摄24mm OIS+5000万超广角116°+5000万长焦80mm 3.5倍	拍照	https://www.oppo.com/cn/smartphones/series-reno/reno16/specs/	2026-11-07
+P005-01	OPPO	K15 Pro 12GB+256GB	3499	天玑8500 SUPER	7500	200	5000万主摄24mm OIS+800万超广角116°；前置1600万	续航	https://www.oppo.com/cn/smartphones/series-k/k15-pro/specs/	2026-11-07
+P005-02	OPPO	K15 Pro 12GB+512GB	3799	天玑8500 SUPER	7500	200	5000万主摄24mm OIS+800万超广角116°；前置1600万	续航	https://www.oppo.com/cn/smartphones/series-k/k15-pro/specs/	2026-11-07
+P006-01	vivo	X300 Pro 12GB+256GB	5599	天玑9500	6510	226	蔡司2亿APO长焦3.5倍+5000万云台主摄1/1.28"+5000万超广角116°	拍照;性能	https://m.vivo.com.cn/vivo/param/x300pro	2026-11-07
+P006-02	vivo	X300 Pro 12GB+512GB	5999	天玑9500	6510	226	蔡司2亿APO长焦3.5倍+5000万云台主摄1/1.28"+5000万超广角116°	拍照;性能	https://m.vivo.com.cn/vivo/param/x300pro	2026-11-07
+P006-03	vivo	X300 Pro 16GB+512GB	6399	天玑9500	6510	226	蔡司2亿APO长焦3.5倍+5000万云台主摄1/1.28"+5000万超广角116°	拍照;性能	https://m.vivo.com.cn/vivo/param/x300pro	2026-11-07
+P006-04	vivo	X300 Pro 16GB+1TB	7199	天玑9500	6510	226	蔡司2亿APO长焦3.5倍+5000万云台主摄1/1.28"+5000万超广角116°	拍照;性能	https://m.vivo.com.cn/vivo/param/x300pro	2026-11-07
+P006-05	vivo	X300 Pro（卫星通信版） 12GB+256GB	5699	天玑9500	6510	226	蔡司2亿APO长焦3.5倍+5000万云台主摄1/1.28"+5000万超广角116°	拍照;性能	https://m.vivo.com.cn/vivo/param/x300pro	2026-11-07
+P006-06	vivo	X300 Pro（卫星通信版） 12GB+512GB	5999	天玑9500	6510	226	蔡司2亿APO长焦3.5倍+5000万云台主摄1/1.28"+5000万超广角116°	拍照;性能	https://m.vivo.com.cn/vivo/param/x300pro	2026-11-07
+P006-07	vivo	X300 Pro（卫星通信版） 16GB+512GB	6499	天玑9500	6510	226	蔡司2亿APO长焦3.5倍+5000万云台主摄1/1.28"+5000万超广角116°	拍照;性能	https://m.vivo.com.cn/vivo/param/x300pro	2026-11-07
+P006-08	vivo	X300 Pro（卫星通信版） 16GB+1TB	7299	天玑9500	6510	226	蔡司2亿APO长焦3.5倍+5000万云台主摄1/1.28"+5000万超广角116°	拍照;性能	https://m.vivo.com.cn/vivo/param/x300pro	2026-11-07
+P007-01	vivo	X300 12GB+256GB	4599	天玑9500	6040	190	2亿主摄f/1.68 OIS+5000万APO长焦3倍+5000万超广角116°	拍照;性能	https://m.vivo.com.cn/vivo/param/x300	2026-11-07
+P007-02	vivo	X300 16GB+256GB	4999	天玑9500	6040	190	2亿主摄f/1.68 OIS+5000万APO长焦3倍+5000万超广角116°	拍照;性能	https://m.vivo.com.cn/vivo/param/x300	2026-11-07
+P007-03	vivo	X300 12GB+512GB	5299	天玑9500	6040	190	2亿主摄f/1.68 OIS+5000万APO长焦3倍+5000万超广角116°	拍照;性能	https://m.vivo.com.cn/vivo/param/x300	2026-11-07
+P007-04	vivo	X300 16GB+512GB	5699	天玑9500	6040	190	2亿主摄f/1.68 OIS+5000万APO长焦3倍+5000万超广角116°	拍照;性能	https://m.vivo.com.cn/vivo/param/x300	2026-11-07
+P007-05	vivo	X300 16GB+1TB	6299	天玑9500	6040	190	2亿主摄f/1.68 OIS+5000万APO长焦3倍+5000万超广角116°	拍照;性能	https://m.vivo.com.cn/vivo/param/x300	2026-11-07
+P008-01	vivo	S50 Pro mini 12GB+256GB	3699	第五代骁龙8（8 Elite Gen5）	6500	191	5000万IMX906 f/1.57 OIS+5000万潜望长焦f/2.65+110°超广角	拍照;性能	https://m.vivo.com.cn/vivo/param/s50promini	2026-11-07
+P008-02	vivo	S50 Pro mini 12GB+512GB	3999	第五代骁龙8（8 Elite Gen5）	6500	191	5000万IMX906 f/1.57 OIS+5000万潜望长焦f/2.65+110°超广角	拍照;性能	https://m.vivo.com.cn/vivo/param/s50promini	2026-11-07
+P008-03	vivo	S50 Pro mini 16GB+512GB	4299	第五代骁龙8（8 Elite Gen5）	6500	191	5000万IMX906 f/1.57 OIS+5000万潜望长焦f/2.65+110°超广角	拍照;性能	https://m.vivo.com.cn/vivo/param/s50promini	2026-11-07
+P009-01	vivo	S50 12GB+256GB	2999	第三代骁龙8s	6500	196	5000万主摄f/1.88 OIS+5000万潜望长焦+110°超广角	拍照;性能	https://m.vivo.com.cn/vivo/param/s50	2026-11-07
+P009-02	vivo	S50 12GB+512GB	3299	第三代骁龙8s	6500	196	5000万主摄f/1.88 OIS+5000万潜望长焦+110°超广角	拍照;性能	https://m.vivo.com.cn/vivo/param/s50	2026-11-07
+P009-03	vivo	S50 16GB+256GB	3399	第三代骁龙8s	6500	196	5000万主摄f/1.88 OIS+5000万潜望长焦+110°超广角	拍照;性能	https://m.vivo.com.cn/vivo/param/s50	2026-11-07
+P009-04	vivo	S50 16GB+512GB	3599	第三代骁龙8s	6500	196	5000万主摄f/1.88 OIS+5000万潜望长焦+110°超广角	拍照;性能	https://m.vivo.com.cn/vivo/param/s50	2026-11-07
+P010-01	vivo	Y500 Pro 8GB+128GB	1799	天玑7400	7000	198	2亿主摄f/1.88 OIS+200万虚化；前置3200万	拍照;续航	https://m.vivo.com.cn/vivo/param/y500pro	2026-11-07
+P010-02	vivo	Y500 Pro 8GB+256GB	1999	天玑7400	7000	198	2亿主摄f/1.88 OIS+200万虚化；前置3200万	拍照;续航	https://m.vivo.com.cn/vivo/param/y500pro	2026-11-07
+P010-03	vivo	Y500 Pro 12GB+256GB	2299	天玑7400	7000	198	2亿主摄f/1.88 OIS+200万虚化；前置3200万	拍照;续航	https://m.vivo.com.cn/vivo/param/y500pro	2026-11-07
+P010-04	vivo	Y500 Pro 12GB+512GB	2599	天玑7400	7000	198	2亿主摄f/1.88 OIS+200万虚化；前置3200万	拍照;续航	https://m.vivo.com.cn/vivo/param/y500pro	2026-11-07
+P011-01	Xiaomi	17 Ultra 12GB+512GB	7999	第五代骁龙8至尊版	6800	223	徕卡1英寸主摄5000万f/1.67 OIS+2亿APO长焦+5000万超广角	拍照;性能	https://www.mi.com/prod/xiaomi-17-ultra/specs	2026-11-07
+P011-02	Xiaomi	17 Ultra 16GB+512GB	8499	第五代骁龙8至尊版	6800	223	徕卡1英寸主摄5000万f/1.67 OIS+2亿APO长焦+5000万超广角	拍照;性能	https://www.mi.com/prod/xiaomi-17-ultra/specs	2026-11-07
+P011-03	Xiaomi	17 Ultra 16GB+1TB	9499	第五代骁龙8至尊版	6800	223	徕卡1英寸主摄5000万f/1.67 OIS+2亿APO长焦+5000万超广角	拍照;性能	https://www.mi.com/prod/xiaomi-17-ultra/specs	2026-11-07
+P011-04	Xiaomi	17 Ultra 徕卡版 16GB+512GB	8999	第五代骁龙8至尊版	6800	223	徕卡1英寸主摄5000万f/1.67 OIS+2亿APO长焦+5000万超广角	拍照;性能	https://www.mi.com/prod/xiaomi-17-ultra/specs	2026-11-07
+P011-05	Xiaomi	17 Ultra 徕卡版 16GB+1TB	9999	第五代骁龙8至尊版	6800	223	徕卡1英寸主摄5000万f/1.67 OIS+2亿APO长焦+5000万超广角	拍照;性能	https://www.mi.com/prod/xiaomi-17-ultra/specs	2026-11-07
+P012-01	Xiaomi	17 12GB+256GB	5099	第五代骁龙8至尊版	7000	191	徕卡5000万光影猎人950主摄+5000万60mm浮动长焦+5000万超广角	拍照;续航;性能	https://www.mi.com/prod/xiaomi-17/specs	2026-11-07
+P012-02	Xiaomi	17 12GB+512GB	5199	第五代骁龙8至尊版	7000	191	徕卡5000万光影猎人950主摄+5000万60mm浮动长焦+5000万超广角	拍照;续航;性能	https://www.mi.com/prod/xiaomi-17/specs	2026-11-07
+P012-03	Xiaomi	17 16GB+512GB	5499	第五代骁龙8至尊版	7000	191	徕卡5000万光影猎人950主摄+5000万60mm浮动长焦+5000万超广角	拍照;续航;性能	https://www.mi.com/prod/xiaomi-17/specs	2026-11-07
+P012-04	Xiaomi	17 16GB+1TB	5999	第五代骁龙8至尊版	7000	191	徕卡5000万光影猎人950主摄+5000万60mm浮动长焦+5000万超广角	拍照;续航;性能	https://www.mi.com/prod/xiaomi-17/specs	2026-11-07
+P013-01	REDMI	K90 Pro Max 12GB+256GB	3999	第五代骁龙8至尊版	7560	225	5000万光影猎人950 1/1.31"f/1.67 OIS+5000万潜望长焦+5000万超广角；前置3200万	拍照;续航;性能	http://www.mi.com/prod/redmi-k90-pro-max	2026-11-07
+P013-02	REDMI	K90 Pro Max 12GB+512GB	4499	第五代骁龙8至尊版	7560	225	5000万光影猎人950 1/1.31"f/1.67 OIS+5000万潜望长焦+5000万超广角；前置3200万	拍照;续航;性能	http://www.mi.com/prod/redmi-k90-pro-max	2026-11-07
+P013-03	REDMI	K90 Pro Max 16GB+512GB	4799	第五代骁龙8至尊版	7560	225	5000万光影猎人950 1/1.31"f/1.67 OIS+5000万潜望长焦+5000万超广角；前置3200万	拍照;续航;性能	http://www.mi.com/prod/redmi-k90-pro-max	2026-11-07
+P013-04	REDMI	K90 Pro Max 16GB+1TB	5299	第五代骁龙8至尊版	7560	225	5000万光影猎人950 1/1.31"f/1.67 OIS+5000万潜望长焦+5000万超广角；前置3200万	拍照;续航;性能	http://www.mi.com/prod/redmi-k90-pro-max	2026-11-07
+P013-05	REDMI	K90 Pro Max 冠军版 16GB+1TB	5999	第五代骁龙8至尊版	7560	225	5000万光影猎人950 1/1.31"f/1.67 OIS+5000万潜望长焦+5000万超广角；前置3200万	拍照;续航;性能	http://www.mi.com/prod/redmi-k90-pro-max	2026-11-07
+P014-01	REDMI	K90 12GB+256GB	3499	骁龙8至尊版（8 Elite）	7100	206	5000万光影猎人800主摄OIS+5000万2.5倍长焦+800万超广角	拍照;续航;性能	https://m.mi.com/commodity/detail/22172	2026-11-07
+P014-02	REDMI	K90 12GB+512GB	4099	骁龙8至尊版（8 Elite）	7100	206	5000万光影猎人800主摄OIS+5000万2.5倍长焦+800万超广角	拍照;续航;性能	https://m.mi.com/commodity/detail/22172	2026-11-07
+P014-03	REDMI	K90 16GB+256GB	3699	骁龙8至尊版（8 Elite）	7100	206	5000万光影猎人800主摄OIS+5000万2.5倍长焦+800万超广角	拍照;续航;性能	https://m.mi.com/commodity/detail/22172	2026-11-07
+P014-04	REDMI	K90 16GB+512GB	4399	骁龙8至尊版（8 Elite）	7100	206	5000万光影猎人800主摄OIS+5000万2.5倍长焦+800万超广角	拍照;续航;性能	https://m.mi.com/commodity/detail/22172	2026-11-07
+P015-01	REDMI	Note 15 Pro+ 12GB+256GB	2499	第四代骁龙7s	7000	207	2亿主摄1/1.4"f/1.7 OIS+800万超广角	拍照;续航	https://www.mi.com/prod/redmi-note-15-pro-plus/specs	2026-11-07
+P015-02	REDMI	Note 15 Pro+ 12GB+512GB	2799	第四代骁龙7s	7000	207	2亿主摄1/1.4"f/1.7 OIS+800万超广角	拍照;续航	https://www.mi.com/prod/redmi-note-15-pro-plus/specs	2026-11-07
+P016-01	荣耀	Magic8 Pro 12GB+256GB	5699	第五代骁龙8至尊版	7200	219	5000万主摄1/1.3"f/1.6 OIS+2亿潜望3.7倍200倍数码+5000万超广角122°；前置5000万+3D深感	拍照;续航;性能	https://www.hihonor.com/cn/phones/honor-magic8-pro/spec/	2026-11-07
+P016-02	荣耀	Magic8 Pro 12GB+512GB	5999	第五代骁龙8至尊版	7200	219	5000万主摄1/1.3"f/1.6 OIS+2亿潜望3.7倍200倍数码+5000万超广角122°；前置5000万+3D深感	拍照;续航;性能	https://www.hihonor.com/cn/phones/honor-magic8-pro/spec/	2026-11-07
+P016-03	荣耀	Magic8 Pro 16GB+512GB	6199	第五代骁龙8至尊版	7200	219	5000万主摄1/1.3"f/1.6 OIS+2亿潜望3.7倍200倍数码+5000万超广角122°；前置5000万+3D深感	拍照;续航;性能	https://www.hihonor.com/cn/phones/honor-magic8-pro/spec/	2026-11-07
+P016-04	荣耀	Magic8 Pro 16GB+1TB	6699	第五代骁龙8至尊版	7200	219	5000万主摄1/1.3"f/1.6 OIS+2亿潜望3.7倍200倍数码+5000万超广角122°；前置5000万+3D深感	拍照;续航;性能	https://www.hihonor.com/cn/phones/honor-magic8-pro/spec/	2026-11-07
+P017-01	荣耀	Magic8 12GB+256GB	4799	第五代骁龙8至尊版	7000	205	5000万主摄+6400万潜望3倍OIS+5000万超广角；前置5000万	续航;性能	https://www.hihonor.com/cn/phones/honor-magic8/spec/	2026-11-07
+P017-02	荣耀	Magic8 12GB+512GB	5199	第五代骁龙8至尊版	7000	205	5000万主摄+6400万潜望3倍OIS+5000万超广角；前置5000万	续航;性能	https://www.hihonor.com/cn/phones/honor-magic8/spec/	2026-11-07
+P017-03	荣耀	Magic8 16GB+512GB	5499	第五代骁龙8至尊版	7000	205	5000万主摄+6400万潜望3倍OIS+5000万超广角；前置5000万	续航;性能	https://www.hihonor.com/cn/phones/honor-magic8/spec/	2026-11-07
+P017-04	荣耀	Magic8 16GB+1TB	5949	第五代骁龙8至尊版	7000	205	5000万主摄+6400万潜望3倍OIS+5000万超广角；前置5000万	续航;性能	https://www.hihonor.com/cn/phones/honor-magic8/spec/	2026-11-07
+P018-01	荣耀	500 Pro 12GB+256GB	3599	骁龙8至尊版（8 Elite）	8000	201	2亿主摄1/1.4"f/1.9 OIS+5000万长焦3倍+1200万超广角微距；前置5000万	拍照;续航;性能	https://www.hihonor.com/cn/phones/honor-500-pro/spec/	2026-11-07
+P018-02	荣耀	500 Pro 12GB+512GB	3899	骁龙8至尊版（8 Elite）	8000	201	2亿主摄1/1.4"f/1.9 OIS+5000万长焦3倍+1200万超广角微距；前置5000万	拍照;续航;性能	https://www.hihonor.com/cn/phones/honor-500-pro/spec/	2026-11-07
+P018-03	荣耀	500 Pro 16GB+512GB	4199	骁龙8至尊版（8 Elite）	8000	201	2亿主摄1/1.4"f/1.9 OIS+5000万长焦3倍+1200万超广角微距；前置5000万	拍照;续航;性能	https://www.hihonor.com/cn/phones/honor-500-pro/spec/	2026-11-07
+P018-04	荣耀	500 Pro 16GB+1TB	4799	骁龙8至尊版（8 Elite）	8000	201	2亿主摄1/1.4"f/1.9 OIS+5000万长焦3倍+1200万超广角微距；前置5000万	拍照;续航;性能	https://www.hihonor.com/cn/phones/honor-500-pro/spec/	2026-11-07
+P019-01	荣耀	500 12GB+256GB	2699	第四代骁龙8s	8000	198	2亿主摄f/1.9 OIS+1200万超广角微距；前置5000万	拍照;续航;性能	https://www.hihonor.com/cn/phones/honor-500/spec/	2026-11-07
+P019-02	荣耀	500 12GB+512GB	2999	第四代骁龙8s	8000	198	2亿主摄f/1.9 OIS+1200万超广角微距；前置5000万	拍照;续航;性能	https://www.hihonor.com/cn/phones/honor-500/spec/	2026-11-07
+P019-03	荣耀	500 16GB+512GB	3299	第四代骁龙8s	8000	198	2亿主摄f/1.9 OIS+1200万超广角微距；前置5000万	拍照;续航;性能	https://www.hihonor.com/cn/phones/honor-500/spec/	2026-11-07
+P020-01	荣耀	400 12GB+256GB	2499	第四代骁龙7	7200	196	2亿主摄1/1.4"f/1.9 OIS+1200万超广角112°；前置5000万	拍照;续航	https://hihonor.com/cn/phones/honor-400/	2026-11-07
+P020-02	荣耀	400 12GB+512GB	2799	第四代骁龙7	7200	196	2亿主摄1/1.4"f/1.9 OIS+1200万超广角112°；前置5000万	拍照;续航	https://hihonor.com/cn/phones/honor-400/	2026-11-07
+P020-03	荣耀	400 16GB+512GB	2999	第四代骁龙7	7200	196	2亿主摄1/1.4"f/1.9 OIS+1200万超广角112°；前置5000万	拍照;续航	https://hihonor.com/cn/phones/honor-400/	2026-11-07
